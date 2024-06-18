@@ -1,3 +1,5 @@
+На создание ушло около 4 часов. Были проблемы с сохранинием состояния фильтров при переходе на другую страницу. Вообщем больше проблем не было.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
